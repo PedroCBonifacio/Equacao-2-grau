@@ -1,0 +1,10 @@
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\bin\Debug\Eq 2 grau.exe.config
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\bin\Debug\Eq 2 grau.exe
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\bin\Debug\Eq 2 grau.pdb
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq 2 grau.csprojAssemblyReference.cache
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq_2_grau.frmSegundoGrau.resources
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq_2_grau.Properties.Resources.resources
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq 2 grau.csproj.GenerateResource.cache
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq 2 grau.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq 2 grau.exe
+C:\Users\Pedro\Desktop\TUDO\Programação\DS\Eq 2 grau\Eq 2 grau\obj\Debug\Eq 2 grau.pdb
